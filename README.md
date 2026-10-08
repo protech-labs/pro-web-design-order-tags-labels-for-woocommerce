@@ -1,5 +1,7 @@
 # Pro Web Design Order Tags & Labels for WooCommerce
 
+![Order Tags & Labels for WooCommerce](https://ps.w.org/pro-web-design-order-tags-labels-for-woocommerce/assets/banner-1544x500.png)
+
 Organise WooCommerce orders with colour-coded tags. Assign tags manually, then find and manage
 tagged orders from the Orders list.
 
@@ -14,6 +16,23 @@ tags give you a second layer of information that is visible at a glance in the o
 - Works with WooCommerce High-Performance Order Storage (HPOS)
 - Works with WooCommerce Subscriptions
 
+## Screenshots
+
+**1. Assign tags from the order edit screen.**
+
+![Assign tags from the order edit screen.](https://ps.w.org/pro-web-design-order-tags-labels-for-woocommerce/assets/screenshot-1.png)
+
+**2. Tags column on the WooCommerce Orders list.**
+
+![Tags column on the WooCommerce Orders list.](https://ps.w.org/pro-web-design-order-tags-labels-for-woocommerce/assets/screenshot-2.png)
+
+**3. Manage tags and colors under WooCommerce → Order Tags.**
+
+![Manage tags and colors under WooCommerce → Order Tags.](https://ps.w.org/pro-web-design-order-tags-labels-for-woocommerce/assets/screenshot-3.png)
+
+**4. Auto-tag rules (Professional).**
+
+![Auto-tag rules (Professional).](https://ps.w.org/pro-web-design-order-tags-labels-for-woocommerce/assets/screenshot-4.png)
 ## Installing
 
 Install from the WordPress plugin directory — search for "Pro Web Design Order Tags & Labels",
