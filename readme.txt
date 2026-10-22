@@ -4,7 +4,7 @@ Tags: woocommerce, order tags, order labels, order management, admin
 Requires at least: 6.2
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.1.7
+Stable tag: 1.1.9
 Requires Plugins: woocommerce
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -31,7 +31,7 @@ Organize WooCommerce orders with color-coded tags. Assign manually or automatica
 * WooCommerce Subscriptions support
 * Priority email support
 
-[Upgrade to Professional](https://www.pro-webdesign.co.uk/plugins/order-tags-labels-for-woocommerce) to unlock automation, filtering, bulk actions and export.
+[Upgrade to Professional](https://www.pro-webdesign.co.uk/plugins/order-tags-labels) to unlock automation, filtering, bulk actions and export.
 
 = Also by Pro Technologies Limited =
 
@@ -70,6 +70,15 @@ Filtering and bulk tag actions are Professional features.
 4. Auto-tag rules (Professional).
 
 == Changelog ==
+
+= 1.1.9 =
+* Security: updated the bundled Freemius SDK from 2.13.4 to 2.13.5 — security hardening of input handling and output escaping in admin notices and the opt-in flow, and pricing-page fixes. No change to how the plugin works.
+
+= 1.1.8 =
+* Fixed: the "Upgrade to Professional" link in this description pointed to an address that no longer exists on our site.
+* Changed: the plugin's homepage link now points to the plugin page on pro-webdesign.co.uk instead of back to this WordPress.org listing.
+* Internal: removed the "Domain Path" header — it pointed to a /languages folder the plugin does not ship; translations come from translate.wordpress.org.
+* Internal: "WC tested up to" bumped to 11.2 — confirmed on WooCommerce 11.2.1, WooCommerce Subscriptions 9.3.0, WordPress 7.1.3 and PHP 8.5.12.
 
 = 1.1.7 =
 * Internal: bumped the plugin header's "WC tested up to" from 11.0 to 11.1, confirmed against a live test site running WooCommerce 11.1.1 and WooCommerce Subscriptions 9.2.0 with no issues.
